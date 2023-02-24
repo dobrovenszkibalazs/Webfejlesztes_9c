@@ -1,0 +1,10 @@
+p {
+    color: blue;
+}
+body p span {
+    color: green;
+}
+
+#Modern {
+    color: yellow;
+}
