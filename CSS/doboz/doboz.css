@@ -4,7 +4,7 @@ body {
 
 #Piros {
     background-color: red;
-    width: 100%;
+    width: 150px;
 }
 
 #Kek {
@@ -14,5 +14,74 @@ body {
 
 #Felso_doboz {
     background-color: coral;
-    width: 45%;
+    width: 50%;
+}
+
+#Zold {
+    background-color: green;
+    width: 75vw;
+}
+
+#Lila {
+    background-color: purple;
+    height: 100px;
+}
+
+#Citrom {
+    background-color: yellow;
+    height: 20vh;
+}
+
+#Szegely {
+    background-color: orange;
+    width: 40%;
+    height: 40px;
+    /* border-style: dotted;
+    border-width: 2.5px;
+    border-color: red; */
+    border: solid 2.5px red;
+}
+
+#Vegyes {
+    background-color: aqua;
+    border-right: 2px black dashed;
+    border-bottom: 5px dotted yellow;
+    margin-bottom: 40px;
+}
+
+#Felso_doboz ~ div {
+    width: 40%;
+    height: 40px;
+}
+
+#Kulso_margo {
+    background-color: rgb(0, 0, 255);
+    margin-top: 20px;
+    margin-left: 40px;
+}
+
+#belso {
+    background-color: hotpink;
+    margin: 10px;
+}
+
+#Felso_doboz ~ #kulso {
+    background-color: brown;
+    height: auto;
+}
+
+#belso_margo {
+    background-color: royalblue;
+    padding: 10px;
+}
+/* top right bottom left */
+#belso_vegyes {
+    background-color: yellow;
+    height: auto !important;
+    padding: 20px 30px 40px;
+}
+
+#kozepre {
+    background-color: yellow;
+    margin: auto;
 }
