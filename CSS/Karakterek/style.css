@@ -1,0 +1,41 @@
+#gyapot {
+    font-weight: bolder;
+    font-style: italic;
+}
+
+h1 {
+    font-weight: normal;
+    text-align: center;
+    background-color: aqua;
+    text-decoration: 2px line-through rgb(179, 229, 255) wavy;
+}
+#soup {
+    font-size: 30px;
+}
+#Iniciale {
+    font-size: 3em;
+    background-color: lightblue;
+}
+#piano {
+    font-variant: small-caps;
+}
+#piano2 {
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+}
+#Madre {
+    letter-spacing: 3px;
+}
+p {
+    margin: 10px 0px;
+}
+#pothead {
+    line-height: 1.25em;
+    text-align: justify;
+}
+.Spanish {
+    text-align: right;
+}
+#almohada {
+    text-transform: capitalize;
+}

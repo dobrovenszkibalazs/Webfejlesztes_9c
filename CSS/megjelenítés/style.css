@@ -1,0 +1,28 @@
+img {
+    width: 500px;
+    border: 2px dotted purple;
+    margin: auto;
+}
+p {
+    background-color: yellow;
+    width: 40%;
+    margin: 10px auto;
+}
+div {
+    background-color: lightblue;
+    width: 100px;  
+    height: 40px;
+    border: 1px solid black;
+}
+.tobbsoros {
+    display: block;
+}
+.egysoros {
+    display: inline;
+}
+.vegyes {
+    display: inline-block;
+}
+.nincs {
+    display: none;
+}
